@@ -10,3 +10,5 @@ Controls (P2):
 A/D = Move
 W = Jump
 Space = Kick
+
+![Gameplay Screenshot](sportsheadoeexampleimage.png)
